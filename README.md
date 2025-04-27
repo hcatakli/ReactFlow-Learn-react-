@@ -5,20 +5,20 @@ React Code Practice is an interactive platform designed to help developers impro
 
 ## Features
 
-💻**Code Challenges:** A variety of React-based coding challenges that progressively increase in difficulty.
-📊**Exercise Tracker:** Users can track their progress and complete exercises at their own pace.
-💡**Interactive Learning:** Each exercise comes with a detailed explanation and the possibility to try out the code.
-🌎**Forum:** A space where users can share their learning experiences, ask questions, and discuss solutions.
-🥇**User Profiles:** Users can create profiles to keep track of their activity and see how they’ve improved over time.
+- 💻**Code Challenges:** A variety of React-based coding challenges that progressively increase in difficulty.
+- 📊**Exercise Tracker:** Users can track their progress and complete exercises at their own pace.
+- 💡**Interactive Learning:** Each exercise comes with a detailed explanation and the possibility to try out the code.
+- 🌎**Forum:** A space where users can share their learning experiences, ask questions, and discuss solutions.
+- 🥇**User Profiles:** Users can create profiles to keep track of their activity and see how they’ve improved over time.
 
 
 ## Technologies Used##
 
-**React:** For building the user interface and interactive elements.
-**React Router:** For navigating between different pages within the app.
-**Zustand:** For global state management.
-**Expo Router:** For routing in the app.
-**React Native:** To support mobile-first development.
+- **React:** For building the user interface and interactive elements.
+- **React Router:** For navigating between different pages within the app.
+- **Zustand:** For global state management.
+- **Expo Router:** For routing in the app.
+- **React Native:** To support mobile-first development.
 
 
 ## Get started
