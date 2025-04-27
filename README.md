@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-React Code Practice is an interactive platform designed to help developers improve their React skills by offering hands-on coding exercises. The application provides a set of coding challenges with a focus on React, ranging from basic to advanced topics. It helps developers practice core React concepts, such as state management, hooks, components, and more, through practical exercises.
+ReactFlow is an interactive platform designed to help developers improve their React skills by offering hands-on coding exercises. The application provides a set of coding challenges with a focus on React, ranging from basic to advanced topics. It helps developers practice core React concepts, such as state management, hooks, components, and more, through practical exercises.
 
 
 ## Features
