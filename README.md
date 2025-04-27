@@ -1,16 +1,36 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+React Code Practice is an interactive platform designed to help developers improve their React skills by offering hands-on coding exercises. The application provides a set of coding challenges with a focus on React, ranging from basic to advanced topics. It helps developers practice core React concepts, such as state management, hooks, components, and more, through practical exercises.
+
+
+## Features
+
+💻**Code Challenges:** A variety of React-based coding challenges that progressively increase in difficulty.
+📊**Exercise Tracker:** Users can track their progress and complete exercises at their own pace.
+💡**Interactive Learning:** Each exercise comes with a detailed explanation and the possibility to try out the code.
+🌎**Forum:** A space where users can share their learning experiences, ask questions, and discuss solutions.
+🥇**User Profiles:** Users can create profiles to keep track of their activity and see how they’ve improved over time.
+
+
+## Technologies Used##
+
+**React:** For building the user interface and interactive elements.
+**React Router:** For navigating between different pages within the app.
+**Zustand:** For global state management.
+**Expo Router:** For routing in the app.
+**React Native:** To support mobile-first development.
+
 
 ## Get started
+1. Install this repository
 
-1. Install dependencies
+2. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Start the app
 
    ```bash
     npx expo start
@@ -33,9 +53,8 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+## Contact
 
-Join our community of developers creating universal apps.
+[LinkedIn](linkedin.com/in/hafsa-çatakli-0b9194259)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
