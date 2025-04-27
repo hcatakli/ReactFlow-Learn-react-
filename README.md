@@ -55,6 +55,6 @@ To learn more about developing your project with Expo, look at the following res
 
 ## Contact
 
-[LinkedIn](linkedin.com/in/hafsa-çatakli-0b9194259)
+[LinkedIn]([linkedin.com/in/hafsa-çatakli-0b9194259](https://www.linkedin.com/in/hafsa-%C3%A7atakli-0b9194259))
 
 
