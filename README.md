@@ -23,6 +23,9 @@ React Code Practice is an interactive platform designed to help developers impro
 
 ## Get started
 1. Install this repository
+   ```bash
+   git clone https://github.com/hcatakli/ReactFlow-Learn-react-.git
+   ```
 
 2. Install dependencies
 
